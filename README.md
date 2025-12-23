@@ -37,15 +37,8 @@ This can lead to conflicts with Liquid Glass effects when using colored or trans
 ![GlassToolbarItem](assets/glass_toolbaritem.png)
 *GlassToolbarItem maintaining the Liquid Glass effect*
 
-<video src="assets/standard_toolbaritem_demo.m4v" controls width="600">
-Your browser does not support the video tag.
-</video>
-*Demo video showing GlassToolbarItem in action*
-
-<video src="assets/glass_toolbaritem_demo.m4v" controls width="600">
-Your browser does not support the video tag.
-</video>
-*Demo video showing GlassToolbarItem in action*
+### VIDEO DEMO
+[![DEMO](https://img.youtube.com/vi/votW46Aub7E/0.jpg)](https://youtube.com/shorts/votW46Aub7E?si=F7I9RbI9zXJ_UiF8)
 
 
 ---
